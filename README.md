@@ -1,5 +1,5 @@
 # LoRA-Kenya
-Materials lists for LoRa projects across Kenya:
+Materials list for LoRa projects across Kenya:
 
 1) Heltec V3 Development board MUST be 868MHz.
 2) 1100 to 3000mAh Lithium-Ion battery.
