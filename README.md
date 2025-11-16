@@ -10,3 +10,5 @@ Materials list for LoRa projects across Kenya:
 If you have your own an IP-68 case you don't need to buy another case for your repeater units.
 
 Get a better antenna especially if you are intending to set up a device as a repeater. (Remember that under the Meshcore protocol companion nodes do not repeat). Make sure your antenna is an 868MHz antenna. Most are 868 though many are sold out of China as being for 915MHz. The only way to tell for your is with an SWR meter.
+
+A good introductory video that can cement these ideas into your mind as one by Andy Kirby ... https://youtu.be/t1qne8uJBAc
