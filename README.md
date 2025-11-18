@@ -13,6 +13,6 @@ Get a better antenna especially if you are intending to set up a device as a rep
 
 Videos that reinforce the ideas and rationale behind mesh networks:
 
-```A good introductory video that can cement these ideas into your mind is this one by Andy Kirby ... https://youtu.be/t1qne8uJBAc
-```A video that dives into the differences between Meshtastic, Meshcore and Reticulum - https://youtu.be/KHqCQCfvoMo
-```Why should we do this? - https://youtu.be/1n6xBJea3gs
+1. A good introductory video that can cement these ideas into your mind is this one by Andy Kirby - https://youtu.be/t1qne8uJBAc
+1. A video that dives into the differences between Meshtastic, Meshcore and Reticulum - https://youtu.be/KHqCQCfvoMo
+1. Why should we do this? - https://youtu.be/1n6xBJea3gs
